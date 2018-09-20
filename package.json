@@ -1,0 +1,17 @@
+{
+  "name": "jest-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NicolaiSchmid/jest-error.git",
+  "author": "Nicolai Schmid <hey@schmid.uno>",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "23.6.0",
+    "babel-preset-env": "1.7.0",
+    "jest-babel": "1.0.1",
+    "babel-core": "6.26.3"
+  }
+}
